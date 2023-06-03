@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="bitlabee_final:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/bitlabee_final_war_exploded</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="bitlabee_final" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="bitlabee_final/web/Web" />
+    </root>
+  </artifact>
+</component>
